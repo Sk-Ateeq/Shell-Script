@@ -1,3 +1,7 @@
+<< task 
+     I TRIED TO MAKE A FUCNCTION TO CREATE ATTACH AND MOUNT NEW VOLUME WHILE DISK USAGE IS MORE WHITH ERROR HANDLING
+task
+
 #!/bin/bash
 << task
    creating a new volume and attaching to this ec2 
